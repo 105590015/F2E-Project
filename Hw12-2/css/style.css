@@ -124,17 +124,24 @@ footer a {
 
 .advertisement img {
     width:50%;  
+	height:350px;
 }
 
 .advertisement .content{
 	width: 50%;
+	height:350px;
 	background-color: #dddddd;
-	padding: 6.6% 0% 6.6% 0%;
+	padding:0px;
 	text-align: center;
+}
+
+.advertisement .content h1{
+	padding-top: 8%;
 }
 
 .detail {
 	width: 17%;
+	height:300px;
 	padding-left: 8%;
 }
 
